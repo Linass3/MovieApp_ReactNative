@@ -91,4 +91,5 @@ const MovieDetails = () => {
         </View>
     )
 }
+
 export default MovieDetails
